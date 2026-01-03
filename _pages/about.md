@@ -22,7 +22,7 @@ I am a 4th-year Ph.D. student in Computer Science at the University of Californi
 More broadly, I am interested in building **secure, robust, and trustworthy AI systems** by combining theory-driven analysis with hands-on experimentation. I have experience developing and evaluating machine learning models across NLP, vision, and multimodal settings using PyTorch and HuggingFace, and I actively explore real-world attack surfaces and defenses in deployed systems. Prior to my Ph.D., I earned a B.Sc. in Electrical Engineering from Sharif University of Technology, where I built a strong foundation in machine learning, signal processing, and systems. I am always excited to collaborate on research at the intersection of **AI safety, adversarial ML, and applied LLM systems**.
 
 
-<!--😈 
+<!--😈 -->
 
 
 
@@ -30,115 +30,34 @@ More broadly, I am interested in building **secure, robust, and trustworthy AI s
 
 
 
-News ⬇️ (Scroll down)
+News ⬇️ 
 ------
-<font size="3">
+<font size="4">
 <div style="overflow-y: auto; max-height: 300px; padding-right: 10px; font-size: 15.5px;">
 <ul>
 	<li>
-		<b>Nov 2025</b>: Our paper on Role-Modality gaps in Multimodal models was Accepted at the <b>Responsible Foundation Models Workshop@NeurIPS 2025</b> - See y'all in San Diego 🏖️🌴
-		<a href="https://openreview.net/forum?id=s8lHtNgfLc" target="_blank">[Paper]</a>
-		<a href="https://responsible-fm.github.io/" target="_blank">[Workshop]</a>
+		<b>August 2025</b>: Our paper (First Author), Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment, was accepted at <b>EMNLP 2025</b>.
+		<a href="https://aclanthology.org/2025.emnlp-main.842/">[Paper]</a>
 	</li>
 	<li>
-		<b>Oct 2025</b>: I will serve as a reviewer for <b>ICLR 2026</b>. 
-	</li>
-	<li>
-		<b>September 2025</b>: Wrapped up my Microsoft internship with <b>"Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness"</b>. Check it out 👀! We are also on the top daily papers on HuggingFace 🤗
-		<a href="https://arxiv.org/abs/2510.01670" target="_blank">[ArXiv]</a>
-		<a href="https://huggingface.co/papers/date/2025-10-03" target="_blank">[Top Daily Papers 🤗]</a> 
-		<a href="https://www.youtube.com/watch?v=-fiCQNVG4y4" target="_blank">[YouTube]</a>
-	</li>
-	<li>
-		<b>Summer 2025</b>: I will get back to <b>Microsoft Research</b> <img src="images/MSR.png" width="20" height="20"> for my 2nd internship! (Super excited 💥👨🏻‍💻!)
-	</li>
-	<li>
-		<b>May 2025</b>: 🎖🔥 Our paper "Layer-wise Alignment: Examining Safety Alignment Across Image Encoder Layers in Vision Language Models" was accepted for <span style="font-weight:700;font-size:14px;color:red">"Spotlight presentation(top 2.6% of 12,107 submissions)</span> at <b>ICML2025</b>! 
-		<a href="https://openreview.net/pdf?id=F1ff8zcjPp" target="_blank">[OpenReview]</a>
-		<a href="https://news.ucr.edu/articles/2025/09/04/ucr-researchers-fortify-ai-against-rogue-rewiring" target="_blank">[News1]</a>
-		<a href="https://interestingengineering.com/innovation/hacking-prevent-ai-from-rogue-prompts" target="_blank">[News2]</a>
-	</li>
-	<li>
-		<b>Oct 2024</b>: I will serve as a reviewer for <b>ICLR 2025</b>. 
-	</li>
-	<li>
-		<b>Sep 2024</b>: Our paper (Co-First Authored) on "Textual Unlearning" to solve "Cross-Modality Safety Alignment" was Accepted at <b>EMNLP 2024 Findings</b> - See y'all in Florida 🐊🌊🌴
-		<a href="https://arxiv.org/pdf/2406.02575">[Paper]</a>
-	</li>
-	<li>
-		<b>Sep 2024</b>: I successfully concluded my internship at <b>Microsoft Research</b> <img src="images/MSR.png" width="20" height="20">; The best experience I could imagine and thankful to my whole team! 
-		Stay tuned for the research paper and the models (Cooking ... 👨🏻‍🍳🍳🔥)
-	</li>
-	<li>
-		<b>Sep 2024</b>: My work was cited in the "International Scientific Report on the Safety of Advanced AI".
-		<a href="https://hal.science/hal-04612963/">[Report]</a>
-	</li>
-	<li>
-		<b>Aug 2024</b>: 👨🏻‍🎓 We gave a 3-hour tutorial on "AI Safety and Adversarial Attacks" at <b>ACL 2024</b>.
+		<b>August 2024</b>: Tutorial on "AI Safety and Adversarial Attacks" at <b>ACL 2024</b>.
 		<a href="https://llm-vulnerability.github.io/">[Material]</a>
 		<a href="https://arxiv.org/abs/2310.10844">[Paper]</a>
 	</li>
 	<li>
-		<b>July 2024</b>: I gave a talk on AI Safety and AR/VR Security with implications on Human-Computer Interaction at MSR <img src="images/MSR.png" width="20" height="20">.
-		<a href="https://drive.google.com/file/d/12yGyDXAE_bZ38xdFbJSqoH3F9Lvna2vQ/view?usp=sharing">[Slides]</a>
+		<b>March 2024</b>: Our paper "That Doesn't Go There: Attacks on Shared State in Multi-User Augmented Reality Applications" has been accepted to <b>USENIX 2024</b>! 
+		<a href="https://www.usenix.org/conference/usenixsecurity24/presentation/slocum">[paper]</a>
 	</li>
 	<li>
-		<b>July 2024</b>: I presented my works on "Unlearning" and "Cross-Modality Safety Alignment" at McGill NLP group <img src="images/mila.png" width="45" height="45">.
-		<a href="https://mcgill-nlp.github.io/reading-group/summer-2024/erfan-shayegani/">[Site]</a>
-	</li>
-	<li>
-		<b>Summer 2024</b>: I will be doing an internship at <b>Microsoft Research</b> <img src="images/MSR.png" width="20" height="20"> in Summer 2024! (Thrilled 💥👨🏻‍💻)
-	</li>
-	<li>
-		<b>June 2024</b>: I'm honored to serve as a reviewer for <b>NextGenAISafety 2024 at ICML</b>!
-		<a href="https://icml.cc/virtual/2024/workshop/29944">[ICML2024]</a>
-	</li>
-	<li>
-		<b>June 2024</b>: 🏅🏆 I won the <span style="font-weight:700;font-size:14px;color:red">"Outstanding Teaching Award"</span> of the CS department of UCR! (Grateful 🤗) 
-		<a href="images/Best_Teaching_CS.jpg" target="_blank">[Award]</a>
-	</li>
-	<li>
-		<b>Mar 2024</b>: My work on Cross-Modal Vulnerability Alignment in Vision-Language Models was accepted for a presentation at <b>SuperAGI Leap Summit 2024</b>! 
-		<a href="https://youtu.be/lYNwpJRJU9U?t=2407">[Video]</a>
-		<a href="https://superagi.com/agi-leap-summit/">[SuperAGI]</a>
-	</li>
-	<li>
-		<b>Mar 2024</b>: Our paper "That Doesn't Go There: Attacks on Shared State in Multi-User Augmented Reality Applications" has been accepted to <b>USENIX SECURITY 2024</b>! 
-		<a href="https://arxiv.org/abs/2308.09146">[paper]</a>
-	</li>
-	<li>
-		<b>Feb 2024</b>: Gave a lightning talk on my AI Safety work at <b>Cohere For AI</b>! 
-		<a href="https://docs.google.com/presentation/d/12QSc14ph0gH6TMkoDo-PaLDyoqYokXhf/edit?usp=sharing&ouid=112584313979945870018&rtpof=true&sd=true" target="_blank">[Slides]</a>
-	</li>
-	<li>
-		<b>Jan 2024</b>: 🎖🔥 Our paper "Jailbreak in Pieces: Compositional Adversarial Attacks on Multi-Modal Language Models" was accepted for <span style="font-weight:700;font-size:14px;color:red">"Spotlight presentation(top 5% of 7262 submissions)</span> at <b>ICLR2024</b>! 
-		<a href="https://openreview.net/forum?id=plmBsXHxgR" target="_blank">[OpenReview]</a>
-		<a href="https://recorder-v3.slideslive.com/#/share?share=91193&s=cf14f58c-ffdc-48c2-a834-5929ac1e8bc7" target="_blank">[SlidesLive-Video]</a>
-		<a href="https://youtu.be/Gg13cyYui_o?t=829" target="_blank">[YoutubeAInews]</a>
-	</li>
-	<li>
-		<b>Nov 2023</b>: 🏆 Our paper "Jailbreak in Pieces: Compositional Adversarial Attacks on Multi-Modal Language Models" won the <span style="font-weight:700;font-size:14px;color:red">"Best Paper Award"</span> at <b>SoCal NLP 2023</b>!
-		<a href="https://arxiv.org/abs/2307.14539" target="_blank">[paper]</a>
-    <a href="https://socalnlp.github.io/symp23/index.html#award" target="_blank">[Award]</a>
-    <a href="https://news.ucr.edu/articles/2024/01/09/ucr-outs-security-flaw-ai-query-models" target="_blank">[News1]</a>
-	<a href="https://www1.cs.ucr.edu/news/2023/11/19/cse-team-won-best-paper-award-socal-nlp-symposium" target="_blank">[News2]</a>
-	<a href="https://techxplore.com/news/2024-01-scientists-flaw-ai-query.html" target="_blank">[News3]</a>
-	</li>
-	<li>
-		<b>Sep 2023</b>: Our paper "Vulnerabilities of Large Language Models to Adversarial Attacks" has been accepted for a tutorial to <b>ACL2024</b>! 
+		<b>September 2023</b>: Our paper "Vulnerabilities of Large Language Models to Adversarial Attacks" has been accepted for a tutorial to <b>ACL2024</b>! 
 		<a href="https://arxiv.org/abs/2310.10844" target="_blank">[paper]</a>
-	</li>
-	<li>
-		<b>Jul 2023</b>: Yay! I did my own first paper :D! "Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models" 
-		<a href="https://arxiv.org/abs/2307.14539v1" target="_blank">[paper]</a>
-	</li>
-	<li>
-		<b>Apr 2023</b>: I will be serving as the moderator & evaluator of student presentations at UGRS2023! 
-		<a href="https://engage.ucr.edu/symposium" target="_blank">[paper]</a>
 	</li>
 </ul>
 </div>
 </font>
+
+
+<!--
 
 Education
 ------
