@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Computing (CS008)"
 collection: teaching
 type: "Undergraduate Course"
 <!--permalink: /teaching/2015-spring-teaching-1 -->
