@@ -49,7 +49,7 @@ News ⬇️
 		<a href="https://www.usenix.org/conference/usenixsecurity24/presentation/slocum">[paper]</a>
 	</li>
 	<li>
-		<b>September 2023</b>: Our paper "Vulnerabilities of Large Language Models to Adversarial Attacks" has been accepted for a tutorial to <b>ACL2024</b>! 
+		<b>September 2023</b>: Our paper "Vulnerabilities of Large Language Models to Adversarial Attacks" has been accepted for a tutorial to <b>ACL 2024</b>! 
 		<a href="https://arxiv.org/abs/2310.10844" target="_blank">[paper]</a>
 	</li>
 </ul>
