@@ -8,6 +8,6 @@ date: 2026
 location: "Riverside, CA, US."
 ---
 
-I've been a TA of this course for these quarters: Fall 2023, Winter 2024, Fall 2024, Winter 2025, Spring 2025, Fall 2025, Winter 2026
+I've been a TA of this course for these quarters: Fall 2023, Winter 2024, Fall 2024, Winter 2025, Spring 2025, Fall 2025, Winter 2026.
 
 
