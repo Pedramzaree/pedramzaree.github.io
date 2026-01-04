@@ -3,7 +3,7 @@ title: "Introduction to Computing (CS008)"
 collection: teaching
 type: "Undergraduate Course"
 <!--permalink: /teaching/2015-spring-teaching-1 -->
-venue: "UC Riverside, Computer Science."
+venue: "UC Riverside, Computer Science"
 date: 2026-01-01
 location: "Riverside, CA, US."
 ---
