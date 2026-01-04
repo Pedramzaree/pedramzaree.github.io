@@ -7,8 +7,8 @@ excerpt: "A comprehensive taxonomy of adversarial attacks on large language mode
 date: 2024-07-01
 venue: "ACL 2024 Tutorial."
 paperurl: "https://llm-vulnerability.github.io/"
-<!-- slidesurl: "" -->
-<!-- bibtexurl: "" -->
+<!-- slidesurl: "" # optional -->
+<!-- bibtexurl: "" # optional -->
 ---
 
 This tutorial presents the first comprehensive taxonomy of adversarial attacks on large language models (LLMs), including **jailbreaks**, **prompt injection**, and emerging **multimodal threats**. We organize the attack landscape, clarify threat models, and discuss practical evaluation considerations for real-world systems.
