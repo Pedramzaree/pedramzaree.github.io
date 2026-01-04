@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-covertex
 excerpt: "We show that over-parameterized machine learning models can act as covert, high-capacity storage channels, enabling hidden data injection and exfiltration without degrading task performance."
 date: 2026-01-01
-venue: "CVPR 2026 — under submission"
+venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition — under submission"
 paperurl: "https://arxiv.org/abs/2307.08811"
 <!-- slidesurl: ""  # optional -->
 <!--  bibtexurl: "" # optional -->
