@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-10-01-attention-eclipse
 excerpt: "We introduce the first attention-manipulation jailbreak, demonstrating how targeted attention perturbations can bypass safety alignment in large language models with high success and low cost."
 date: 2025-10-01
-venue: "EMNLP 2025"
+venue: "EMNLP"
 paperurl: ""        # add PDF link when available
 slidesurl: ""       # optional
 bibtexurl: ""       # optional
