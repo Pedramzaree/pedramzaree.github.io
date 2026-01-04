@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "AttenMIA: LLM Membership Inference Attack through Attention Signals"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2026-attenmia
+excerpt: "We present AttenMIA, the first membership inference attack on large language models that exploits attention signals to infer training data membership."
+date: 2026-01-01
+venue: "IEEE Symposium on Security and Privacy (S&P) — under submission."
+<!-- paperurl: "" -->        # add when available (e.g., arXiv or camera-ready)
+<!-- slidesurl: "" -->       # optional
+<!-- bibtexurl: "" -->       # optional
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We introduce **AttenMIA**, the first framework for **membership inference attacks on large language models using attention signals**. Our method demonstrates that internal attention patterns leak sensitive information about whether a sample was included in a model’s training data, even when output probabilities are unavailable.
+
+This work exposes a new privacy risk at the architectural level of LLMs and shows that attention mechanisms can act as a previously overlooked side channel. Our results highlight the need for **privacy-aware design and defenses** that consider internal model representations, not just external model outputs.
