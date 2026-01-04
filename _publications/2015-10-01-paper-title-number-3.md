@@ -6,7 +6,7 @@ permalink: /publication/2024-07-01-llm-vulnerabilities-tutorial
 excerpt: "A comprehensive taxonomy of adversarial attacks on large language models, covering jailbreaks, prompt injection, and multimodal threats."
 date: 2024-07-01
 venue: "ACL 2024 Tutorial."
-paperurl: https://llm-vulnerability.github.io/
+paperurl: "https://llm-vulnerability.github.io/"
 <!-- slidesurl: "" -->
 <!-- bibtexurl: "" -->
 ---
