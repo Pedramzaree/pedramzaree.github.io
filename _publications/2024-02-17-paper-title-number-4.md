@@ -1,13 +1,16 @@
 ---
-title: "Paper Title Number 4"
+title: "That Doesn’t Go There: Attacks on Shared State in Multi-User Augmented Reality Applications"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2024-shared-state-ar
+excerpt: "We present the first end-to-end attacks on shared state in commercial multi-user augmented reality systems, enabling cross-user data poisoning and exfiltration."
+date: 2024-08-01
+venue: "USENIX Security 2024"
+paperurl: "https://www.usenix.org/system/files/usenixsecurity24-slocum.pdf"
+<!-- slidesurl: ""  # optional -->
+<!-- bibtexurl: ""  # optional -->
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We present the **first end-to-end attacks on shared state in commercial multi-user augmented reality (AR) systems**, including platforms such as **Google ARCore** and **Meta Mapillary**. Our attacks demonstrate how adversaries can manipulate shared spatial state to **poison holographic content** or **exfiltrate sensitive data** across real-world environments.
+
+This work reveals a previously unexplored attack surface in collaborative AR systems and highlights the security risks that arise when shared spatial state is implicitly trusted. Our findings emphasize the need for **robust isolation and validation mechanisms** in multi-user XR platforms.
