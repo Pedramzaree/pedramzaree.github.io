@@ -1,7 +1,7 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "That Doesn\u2019t Go There: Attacks on Shared State in Multi-User Augmented Reality Applications<br />USENIX Security Symposium; Philadelphia, PA, USA",
+    39.9527237,
+    -75.1635262
   ]
 ];
