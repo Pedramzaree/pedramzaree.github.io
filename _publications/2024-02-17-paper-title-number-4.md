@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-shared-state-ar
 excerpt: "We present the first end-to-end attacks on shared state in commercial multi-user augmented reality systems, enabling cross-user data poisoning and exfiltration."
 date: 2024-08-01
-venue: "USENIX Security 2024"
+venue: "USENIX Security"
 paperurl: "https://www.usenix.org/system/files/usenixsecurity24-slocum.pdf"
 <!-- slidesurl: ""  # optional -->
 <!-- bibtexurl: ""  # optional -->
