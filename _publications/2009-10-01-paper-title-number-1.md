@@ -7,8 +7,8 @@ excerpt: "We introduce the first attention-manipulation jailbreak, demonstrating
 date: 2025-10-01
 venue: "EMNLP"
 paperurl: "https://aclanthology.org/2025.emnlp-main.842/"        # add PDF link when available
-slidesurl: ""       # optional
-bibtexurl: ""       # optional
+<!-- slidesurl: ""       # optional -->
+<!--bibtexurl: ""       # optional   --> 
 ---
 
 We propose **Attention Eclipse**, the first jailbreak technique that directly manipulates attention mechanisms to bypass safety alignment in large language models. Our method achieves a **91.2% attack success rate on LLaMA-2**, reduces generation cost by **66%**, and demonstrates strong **cross-model transferability**.
