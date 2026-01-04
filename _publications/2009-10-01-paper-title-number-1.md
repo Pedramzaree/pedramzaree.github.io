@@ -9,7 +9,6 @@ venue: "EMNLP"
 paperurl: ""        # add PDF link when available
 slidesurl: ""       # optional
 bibtexurl: ""       # optional
-citation: "Pedram Zaree, et al. (2025). &quot;Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment.&quot; <i>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>."
 ---
 
 We propose **Attention Eclipse**, the first jailbreak technique that directly manipulates attention mechanisms to bypass safety alignment in large language models. Our method achieves a **91.2% attack success rate on LLaMA-2**, reduces generation cost by **66%**, and demonstrates strong **cross-model transferability**.
