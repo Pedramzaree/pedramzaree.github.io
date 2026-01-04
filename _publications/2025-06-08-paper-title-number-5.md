@@ -7,8 +7,8 @@ excerpt: "We survey and systematize vulnerabilities in large language models exp
 date: 2024-06-01
 venue: "Arxived"
 paperurl: "https://arxiv.org/abs/2310.10844"
-<!-- # slidesurl: "" -->
-<!-- # bibtexurl: "" -->
+<!--  slidesurl: "" # optional -->
+<!--  bibtexurl: "" # optional -->
 ---
 
 This survey provides a **systematic overview of vulnerabilities in large language models (LLMs)** revealed through adversarial attacks. We analyze a broad range of attack classes—including **jailbreaks, prompt injection, privacy and membership inference, and multimodal exploits**—and highlight the underlying mechanisms that make LLMs susceptible to these threats.
