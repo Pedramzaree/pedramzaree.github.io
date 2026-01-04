@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-10-01-attention-eclipse
+excerpt: "We introduce the first attention-manipulation jailbreak, demonstrating how targeted attention perturbations can bypass safety alignment in large language models with high success and low cost."
+date: 2025-10-01
+venue: "EMNLP 2025"
+paperurl: ""        # add PDF link when available
+slidesurl: ""       # optional
+bibtexurl: ""       # optional
+citation: "Pedram Zaree, et al. (2025). &quot;Attention Eclipse: Manipulating Attention to Bypass LLM Safety-Alignment.&quot; <i>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>."
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+We propose **Attention Eclipse**, the first jailbreak technique that directly manipulates attention mechanisms to bypass safety alignment in large language models. Our method achieves a **91.2% attack success rate on LLaMA-2**, reduces generation cost by **66%**, and demonstrates strong **cross-model transferability**.
+
+This work reveals a previously unexplored vulnerability at the architectural level of LLMs and highlights the critical role of attention in model alignment and safety. Our findings suggest that alignment defenses must consider internal attention dynamics rather than relying solely on surface-level prompt filtering.
