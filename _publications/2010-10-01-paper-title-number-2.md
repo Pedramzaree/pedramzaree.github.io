@@ -6,7 +6,7 @@ permalink: /publication/2026-attenmia
 excerpt: "We present AttenMIA, the first membership inference attack on large language models that exploits attention signals to infer training data membership."
 date: 2026-01-01
 venue: "IEEE Symposium on Security and Privacy (S&P) — under submission."
-<!-- paperurl: "" -->        # add when available (e.g., arXiv or camera-ready)
+paperurl: " "         # add when available (e.g., arXiv or camera-ready)
 <!-- slidesurl: "" -->       # optional
 <!-- bibtexurl: "" -->       # optional
 ---
